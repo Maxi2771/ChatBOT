@@ -7,3 +7,7 @@ borderColor = "#a391ff"
 baseRadius = "full"
 linkColor = "#5664ef"
 font = "sans-serif"
+
+[server]
+headless = true
+enableCORS = false
