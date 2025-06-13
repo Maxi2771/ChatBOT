@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#a391ff"     
+backgroundColor = "#0f172b"
+secondaryBackgroundColor = "#62748e"
+textColor = "#ffffff"
+borderColor = "#a391ff"
+baseRadius = "full"
+linkColor = "#5664ef"
+font = "poppins"
